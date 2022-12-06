@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+.container{
+    background-color: aquamarine;
+    text-align: center;
+}
+.line {
+    width:100px;
+    background-color: black;
+    height:5px;
+    margin: auto 500px;
+}
+#carousel1{
+    background-color:bisque;
+
+
+}
+#carousel1 img{
+    width: 350px;
+    align-content: center;
+    
+    
+}
+#carousel1 inner{
+    color:blue;
+    font-size: 35px;
+}
+
+.name{
+    color: white;
+    font-size: 30px;
+    font-family: monospace;
+}
+p{
+    color: chocolate;
+    font-size: 52px;
+    font-family: monospace;
+}
